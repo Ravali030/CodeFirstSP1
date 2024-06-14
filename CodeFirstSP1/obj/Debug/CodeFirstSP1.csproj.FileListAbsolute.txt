@@ -1,0 +1,14 @@
+C:\Users\ravali.gavvala\OneDrive - TECHWAVE\डेस्कटॉप\dotnet\CodeFirstSP1\CodeFirstSP1\bin\Debug\CodeFirstSP1.exe.config
+C:\Users\ravali.gavvala\OneDrive - TECHWAVE\डेस्कटॉप\dotnet\CodeFirstSP1\CodeFirstSP1\bin\Debug\CodeFirstSP1.exe
+C:\Users\ravali.gavvala\OneDrive - TECHWAVE\डेस्कटॉप\dotnet\CodeFirstSP1\CodeFirstSP1\bin\Debug\CodeFirstSP1.pdb
+C:\Users\ravali.gavvala\OneDrive - TECHWAVE\डेस्कटॉप\dotnet\CodeFirstSP1\CodeFirstSP1\bin\Debug\EntityFramework.dll
+C:\Users\ravali.gavvala\OneDrive - TECHWAVE\डेस्कटॉप\dotnet\CodeFirstSP1\CodeFirstSP1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ravali.gavvala\OneDrive - TECHWAVE\डेस्कटॉप\dotnet\CodeFirstSP1\CodeFirstSP1\bin\Debug\EntityFramework.xml
+C:\Users\ravali.gavvala\OneDrive - TECHWAVE\डेस्कटॉप\dotnet\CodeFirstSP1\CodeFirstSP1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ravali.gavvala\OneDrive - TECHWAVE\डेस्कटॉप\dotnet\CodeFirstSP1\CodeFirstSP1\obj\Debug\CodeFirstSP1.csproj.AssemblyReference.cache
+C:\Users\ravali.gavvala\OneDrive - TECHWAVE\डेस्कटॉप\dotnet\CodeFirstSP1\CodeFirstSP1\obj\Debug\CodeFirstSP1.csproj.CoreCompileInputs.cache
+C:\Users\ravali.gavvala\OneDrive - TECHWAVE\डेस्कटॉप\dotnet\CodeFirstSP1\CodeFirstSP1\obj\Debug\CodeFirstSP1.csproj.CopyComplete
+C:\Users\ravali.gavvala\OneDrive - TECHWAVE\डेस्कटॉप\dotnet\CodeFirstSP1\CodeFirstSP1\obj\Debug\CodeFirstSP1.exe
+C:\Users\ravali.gavvala\OneDrive - TECHWAVE\डेस्कटॉप\dotnet\CodeFirstSP1\CodeFirstSP1\obj\Debug\CodeFirstSP1.pdb
+C:\Users\ravali.gavvala\OneDrive - TECHWAVE\डेस्कटॉप\dotnet\CodeFirstSP1\CodeFirstSP1\obj\Debug\CodeFirstSP1.Migrations.IntialEntities.resources
+C:\Users\ravali.gavvala\OneDrive - TECHWAVE\डेस्कटॉप\dotnet\CodeFirstSP1\CodeFirstSP1\obj\Debug\CodeFirstSP1.csproj.GenerateResource.cache
